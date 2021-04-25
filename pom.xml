@@ -14,17 +14,13 @@
         <module>beyond-framework-db-encrypt-starter</module>
         <module>beyond-framework-mapper-ext-starter</module>
         <module>beyond-framework-mybatis-generator-plugin</module>
-        <module>beyond-framework-common</module>
         <module>beyond-framework-idworker</module>
         <module>beyond-framework-redis-cachemanager</module>
         <module>beyond-framework-json-diff</module>
         <module>beyond-framework-banner</module>
-        <!--<module>beyond-framework-lb-local-adapter</module>-->
         <module>beyond-framework-lock-ext</module>
         <module>beyond-framework-es-client-starter</module>
         <module>beyond-framework-page-batch</module>
-        <!--<module>beyond-framework-encrypt</module>-->
-        <module>beyond-framework-tracing-starter</module>
         <module>beyond-framework-ratelimiter-starter</module>
     </modules>
 
@@ -85,13 +81,4 @@
             </plugin>
         </plugins>
     </build>
-
-    <!--<distributionManagement>-->
-        <!--<repository>-->
-            <!--<id></id>-->
-            <!--<name></name>-->
-            <!--<url></url>-->
-            <!--<uniqueVersion></uniqueVersion>-->
-        <!--</repository>-->
-    <!--</distributionManagement>-->
 </project>
